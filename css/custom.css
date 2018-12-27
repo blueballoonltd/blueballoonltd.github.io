@@ -221,3 +221,8 @@ input, select, textarea {
     form :-ms-input-placeholder {
         color: #999;
     }
+
+.logo-word {
+    opacity: 0.8;
+    font-size: 20px;
+}

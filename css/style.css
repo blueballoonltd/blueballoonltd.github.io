@@ -812,6 +812,7 @@ h4.sub-tittle {
 .banner-inner {
     background: url(../images/makeithappen.jpg) no-repeat;
     background-size: cover;
+    background-position: center center;
     min-height: 250px;
 }
 
